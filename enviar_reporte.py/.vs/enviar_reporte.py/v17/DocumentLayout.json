@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleja.PC-G1\\Downloads\\enviar_reporte.py\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8F0A26C-0222-405E-93F0-71BBC2EA408F}|enviar_reporte.py.pyproj|C:\\Users\\aleja.PC-G1\\Downloads\\enviar_reporte.py\\enviar_reporte.py.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B8F0A26C-0222-405E-93F0-71BBC2EA408F}|enviar_reporte.py.pyproj|solutionrelative:enviar_reporte.py.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "enviar_reporte.py.py",
+              "DocumentMoniker": "C:\\Users\\aleja.PC-G1\\Downloads\\enviar_reporte.py\\enviar_reporte.py.py",
+              "RelativeDocumentMoniker": "enviar_reporte.py.py",
+              "ToolTip": "C:\\Users\\aleja.PC-G1\\Downloads\\enviar_reporte.py\\enviar_reporte.py.py",
+              "RelativeToolTip": "enviar_reporte.py.py",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-06-02T00:41:24.778Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

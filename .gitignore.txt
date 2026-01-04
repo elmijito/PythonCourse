@@ -1,0 +1,16 @@
+# Ignorar archivos compilados de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar entornos virtuales (ajusta si tu carpeta se llama diferente)
+venv/
+env/
+.venv/
+
+# Ignorar archivos de sistema o configuraciones locales de VS Code
+.vscode/
+*.log
+
+# Si el archivo Excel contiene datos privados, descomenta la siguiente línea:
+# datos_usuarios.xlsx
