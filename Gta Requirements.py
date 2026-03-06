@@ -33,9 +33,9 @@ ram_ok = ram_gb >= req_minimos["RAM"]
 
 # ===== RESULTADOS =====
 print("=== ANÁLISIS GTA 6 ===")
-print(f"GPU: {gpu} → {'✅' if gpu_ok else '❌'} (Mínimo: RTX 2060/RX 5700)")
-print(f"CPU: {cpu} → {'✅' if cpu_ok else '❌'} (Mínimo: Ryzen 5 3600 / i5-8600)")
-print(f"RAM: {ram_gb}GB → {'✅' if ram_ok else '❌'} (Mínimo: 8GB)")
+print(f"GPU: {gpu} → {'' if gpu_ok else '❌'} (Mínimo: RTX 2060/RX 5700)")
+print(f"CPU: {cpu} → {'' if cpu_ok else '❌'} (Mínimo: Ryzen 5 3600 / i5-8600)")
+print(f"RAM: {ram_gb}GB → {'' if ram_ok else '❌'} (Mínimo: 8GB)")
 
 if all([gpu_ok, cpu_ok, ram_ok]):
     print("\n🎉 ¡Tu PC PUEDE con GTA 6! (Configuración media-alta)")

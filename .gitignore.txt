@@ -14,3 +14,5 @@ env/
 
 # Si el archivo Excel contiene datos privados, descomenta la siguiente línea:
 # datos_usuarios.xlsx
+
+OBS/

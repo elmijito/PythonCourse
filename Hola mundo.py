@@ -38,9 +38,9 @@ print(f"CPU: {cpu} → {'✅' if cpu_ok else '❌'} (Mínimo: Ryzen 5 3600 / i5-
 print(f"RAM: {ram_gb}GB → {'✅' if ram_ok else '❌'} (Mínimo: 8GB)")
 
 if all([gpu_ok, cpu_ok, ram_ok]):
-    print("\n🎉 ¡Tu PC PUEDE con GTA 6! (Configuración media-alta)")
+    print("\n ¡Tu PC PUEDE con GTA 6! (Configuración media-alta)")
 elif any([gpu_ok, cpu_ok]):
-    print("\n⚠️ Jugarás con ajustes (actualiza lo rojo)")
+    print("\n Jugarás con ajustes (actualiza lo rojo)")
 else:
-    print("\n❌ Necesitas mejor hardware para GTA 6")
+    print("\n Necesitas mejor hardware para GTA 6")
 
